@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1592908274 source:c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<clocale>
+	"tipos.h"
+	"prototipos.h"
+	"producto.h"
+	"proveedor.h"
+	"cliente.h"
+	"venta.h"
+	"empleado.h"
+	"compra.h"
+	"informe.h"
+	"configuracion.h"
+	"subMenus.h"
+
+1592909305 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\tipos.h
+
+1592907604 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\prototipos.h
+
+1592907669 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\producto.h
+
+1592907877 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\proveedor.h
+
+1592907748 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\cliente.h
+
+1592907910 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\venta.h
+
+1592907962 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\empleado.h
+
+1592907990 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\compra.h
+
+1592908021 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\informe.h
+
+1592908048 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\configuracion.h
+
+1592907314 c:\users\jorge\desktop\tp de laboratorio 2\tienda de computacion\submenus.h
+
+1593710157 source:c:\users\juan\desktop\tienda de computacion\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<clocale>
+	"tipos.h"
+	"prototipos.h"
+	"producto.h"
+	"proveedor.h"
+	"cliente.h"
+	"venta.h"
+	"empleado.h"
+	"compra.h"
+	"informe.h"
+	"configuracion.h"
+	"subMenus.h"
+	"colormenues.h"
+	"persona.h"
+
+1595019015 c:\users\juan\desktop\tienda de computacion\tipos.h
+
+1593965502 c:\users\juan\desktop\tienda de computacion\prototipos.h
+	"colormenues.h"
+
+1593965552 c:\users\juan\desktop\tienda de computacion\colormenues.h
+
+1593966728 c:\users\juan\desktop\tienda de computacion\producto.h
+	"colormenues.h"
+
+1595018190 c:\users\juan\desktop\tienda de computacion\proveedor.h
+	"colormenues.h"
+
+1595019015 c:\users\juan\desktop\tienda de computacion\cliente.h
+	"colormenues.h"
+
+1593966611 c:\users\juan\desktop\tienda de computacion\venta.h
+	"colormenues.h"
+
+1593974036 c:\users\juan\desktop\tienda de computacion\empleado.h
+	"colormenues.h"
+
+1593966460 c:\users\juan\desktop\tienda de computacion\compra.h
+	"colormenues.h"
+
+1592908021 c:\users\juan\desktop\tienda de computacion\informe.h
+
+1592908048 c:\users\juan\desktop\tienda de computacion\configuracion.h
+
+1594928409 c:\users\juan\desktop\tienda de computacion\submenus.h
+	"colormenues.h"
+
+1593974569 c:\users\juan\desktop\tienda de computacion\persona.h
+	"colormenues.h"
+
